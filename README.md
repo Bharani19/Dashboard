@@ -4,7 +4,7 @@ git clone https://github.com/Bharani19/Dashboard.git
 
 #Change the current directory to project directory
 
-cd my-app
+cd Dashboard
 
 #To install all the dependencies #
 
